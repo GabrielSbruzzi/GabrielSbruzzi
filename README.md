@@ -29,4 +29,4 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SeuUsuario&theme=radical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielSbruzzi&theme=radical&hide_border=true)
