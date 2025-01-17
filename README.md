@@ -1,4 +1,4 @@
-# 👨‍💻 Olá! Eu sou [Gabriel Sbruzzi], um desenvolvedor apaixonado por novas experiências e tecnologias. Bem-vindo à minha jornada de codificação!
+# 👨‍💻 Olá! Eu sou Gabriel Sbruzzi, um desenvolvedor apaixonado por novas experiências e tecnologias. Bem-vindo à minha jornada de codificação!
 
 ---
 
