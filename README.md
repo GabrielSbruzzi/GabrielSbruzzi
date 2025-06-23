@@ -1,4 +1,4 @@
-# 👨‍💻 Olá! Eu sou Gabriel Sbruzzi, um desenvolvedor apaixonado por novas experiências e tecnologias. Bem-vindo à minha jornada de codificação!
+# 👨‍💻 Olá! Sou Gabriel Sbruzzi, profissional de QA com paixão por garantir a qualidade, eficiência e confiabilidade de produtos de software. Tenho experiência em testes manuais e automatizados, foco na experiência do usuário e comprometimento com entregas consistentes e de alto padrão. Estou sempre em busca de melhorias contínuas, novas tecnologias e boas práticas de qualidade.
 
 ---
 
