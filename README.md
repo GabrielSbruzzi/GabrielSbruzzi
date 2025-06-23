@@ -17,6 +17,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/O/oracle-sql-developer-logo-3E78A6B576-seeklogo.com.png" title="Oracle SQL Developer" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/insomnia.svg" title="Insomnia" width="40" height="40"/>&nbsp;
 </div>
 
 ---
