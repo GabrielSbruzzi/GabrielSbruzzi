@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/demo/?font=Exo+2&size=24&duration=4000&color=429CF7&lines=QA+Engineer;Testes+Automatizados;Testes+Manuais"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=3B9FF7&center=true&random=true&width=320&lines=QA+Engineer;Testes+Automatizados;Testes+Manuais" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
