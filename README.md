@@ -1,6 +1,6 @@
 <!-- Banner (você pode substituir a imagem por algo próprio) -->
 <p align="center">
-  <img src="https://imgur.com/T4tmHhW" alt="Gabriel Sbruzzi - QA Engineer Banner">
+  <img src="https://imgur.com/T4tmHhW.png" alt="Gabriel Sbruzzi - QA Engineer Banner">
 </p>
 
 # 👨‍💻 Olá! Eu sou Gabriel Sbruzzi
