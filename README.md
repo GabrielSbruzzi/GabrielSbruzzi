@@ -11,10 +11,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=3B9FF7&center=true&random=true&width=320&lines=QA+Engineer;Testes+Automatizados;Testes+Manuais" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
-</p>
-
 # 👨‍💻 Olá! Eu sou Gabriel Sbruzzi
 
 Sou um **profissional de QA (Quality Assurance)** apaixonado por garantir a **qualidade**, **eficiência** e **confiabilidade** de produtos de software. Tenho experiência com **testes manuais e automatizados**, sempre focando na **experiência do usuário** e em entregas de alto padrão.
