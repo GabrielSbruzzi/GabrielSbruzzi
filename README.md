@@ -1,6 +1,40 @@
-# 👨‍💻 Olá! Sou Gabriel Sbruzzi, profissional de QA com paixão por garantir a qualidade, eficiência e confiabilidade de produtos de software. Tenho experiência em testes manuais e automatizados, foco na experiência do usuário e comprometimento com entregas consistentes e de alto padrão. Estou sempre em busca de melhorias contínuas, novas tecnologias e boas práticas de qualidade.
+<!-- Banner (você pode substituir a imagem por algo próprio) -->
+<p align="center">
+  <img src="https://imgur.com/a/s3X2bxh" alt="Gabriel Sbruzzi - QA Engineer Banner">
+</p>
+
+# 👨‍💻 Olá! Eu sou Gabriel Sbruzzi
+
+Sou um **profissional de QA (Quality Assurance)** apaixonado por garantir a **qualidade**, **eficiência** e **confiabilidade** de produtos de software. Tenho experiência com **testes manuais e automatizados**, sempre focando na **experiência do usuário** e em entregas de alto padrão.
 
 ---
+
+## 🧠 Sobre mim
+
+- 🎯 Foco em qualidade de ponta a ponta
+- 🔍 Especialista em testes funcionais, exploratórios e automatizados
+- 🤖 Familiaridade com automação utilizando **Java**, **Selenium**, **Insomnia**, entre outras ferramentas
+- 📚 Estudando constantemente **boas práticas**, **novas tecnologias** e **metodologias ágeis**
+- 💼 Aberto a oportunidades e colaborações!
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielSbruzzi&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
@@ -9,24 +43,31 @@
 
 ---
 
-### 🛠️ Tech Stack:
+## 🏅 Certificações e Estudos
+
+- ✅ Quality Assurance: plano de testes e gestão de bugs
+- ✅ Organização de Equipes Ágeis: os papéis existentes em uma equipe
+- ✅ SQL Oracle Database
+- ✅ Oracle Database
+- ✅ SQL com MYSQL
+- ✅ SQL Server
+- 📖 Atualmente estudando: **Automação em Java** e **Automação com Cypress/Selenium**
+
+---
+
+## 📫 Conecte-se comigo
+
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" width="40" height="40"/>&nbsp;
+  <a href="https://www.linkedin.com/in/gabriel-sbruzzi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gabrielsbz2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
 ---
 
-### 📫 Connect with me:
-<div>
-  <a href="https://www.linkedin.com/in/gabriel-sbruzzi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:gabrielsbz2003@gmail,com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</div>
-
----
+<p align="center">
+  Feito com ❤️ por <strong>Gabriel Sbruzzi</strong>
+</p>
