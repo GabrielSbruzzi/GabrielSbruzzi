@@ -59,6 +59,7 @@ Sou um **profissional de QA (Quality Assurance)** apaixonado por garantir a **qu
 - ✅ Oracle Database
 - ✅ SQL com MYSQL
 - ✅ SQL Server
+- ✅ Data Science
 - 📖 Atualmente estudando: **Automação em Java** e **Automação com Cypress/Selenium**
 
 ---
