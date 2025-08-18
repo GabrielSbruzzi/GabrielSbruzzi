@@ -38,7 +38,12 @@ Sou um **profissional de QA (Quality Assurance)** apaixonado por garantir a **qu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/insomnia" title="Insomnia" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/springboot" title="Spring Boot" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/selenium" title="Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/cypress" title="Cypress" width="40" height="40"/>
 </div>
+
 
 ---
 
